@@ -25,7 +25,7 @@ package za.ac.wsu.s221085939;
 	}
 
 	public void setRadius(float radius){
-		//raduis should not be less than zero
+		//radius should not be less than zero
 	  if(radius>0) {
 	   this.radius=radius;
 	  }
