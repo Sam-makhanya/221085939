@@ -5,7 +5,7 @@
 
 	public static void main(String[] args) {
 
-	 Circle object = new Circle(5,4,6);
+	 Circle object = new Circle(5.56,4,6);
 	 
 
 	 object.getX();
